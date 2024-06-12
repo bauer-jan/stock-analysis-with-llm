@@ -2,17 +2,17 @@
 
 ### Portfolio Manager
 
-| stock | date       | name             | number_of_shares_to_buy |
-|-------|------------|------------------|-------------------------|
-| HESAY | 2024-06-03 | Hermès Int...    | 50                      |
-| VRTX  | 2024-06-03 | Vertex Phar...   | 15                      |
-| GRMN  | 2024-06-03 | Garmin Ltd.      | 30                      |
-| CME   | 2024-06-03 | CME Group ...    | 20                      |
-| APTV  | 2024-06-03 | Aptiv PLC        | 40                      |
-| CTVA  | 2024-06-03 | Corteva Inc.     | 60                      |
-| ISRG  | 2024-06-03 | Intuitive Su...  | 10                      |
-| TT    | 2024-06-03 | Trane Tech...    | 18                      |
-
+| stock | date       | name             | number_of_shares_to_buy | Performance | 
+|-------|------------|------------------|-------------------------|-------------|
+| HESAY | 2024-06-03 | Hermès Int...    | 50                      |    -1.6     |
+| VRTX  | 2024-06-03 | Vertex Phar...   | 15                      |    4.49     | 
+| GRMN  | 2024-06-03 | Garmin Ltd.      | 30                      |    0.21     |
+| CME   | 2024-06-03 | CME Group ...    | 20                      |    -3.57    |
+| APTV  | 2024-06-03 | Aptiv PLC        | 40                      |    -9.6     |
+| CTVA  | 2024-06-03 | Corteva Inc.     | 60                      |    -7.5     |
+| ISRG  | 2024-06-03 | Intuitive Su...  | 10                      |    6.46     |
+| TT    | 2024-06-03 | Trane Tech...    | 18                      |    1.43     |
+| Total |    -       |                  |                         |    -9,68    |
 
 ### Stock Analyst
 
