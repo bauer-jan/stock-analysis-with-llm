@@ -2,6 +2,19 @@
 
 ### Portfolio Manager
 
+## 2024-06-10
+
+| stock | date       | name             | Performance | 
+|-------|------------|------------------|-------------|
+| VRTX  | 2024-06-10 | Vertex Phar...   |    -        |
+| IDXX  | 2024-06-10 | IDEXX Labo...    |    -        | 
+| REGN  | 2024-06-10 | Regeneron Ph...  |    -        |
+| GEN   | 2024-06-10 | Gen Digi...      |    -        |
+| ISRG  | 2024-06-10 | Intuitiv.        |    -        |
+
+
+## 2024-06-03
+
 | stock | date       | name             | number_of_shares_to_buy | Performance | 
 |-------|------------|------------------|-------------------------|-------------|
 | HESAY | 2024-06-03 | Hermès Int...    | 50                      |    -1.6     |
@@ -12,7 +25,7 @@
 | CTVA  | 2024-06-03 | Corteva Inc.     | 60                      |    -7.5     |
 | ISRG  | 2024-06-03 | Intuitive Su...  | 10                      |    6.46     |
 | TT    | 2024-06-03 | Trane Tech...    | 18                      |    1.43     |
-| Total |    -       |                  |                         |    -9,68    |
+| Total |            |                  |                         |    -9,68    |
 
 ### Stock Analyst
 
