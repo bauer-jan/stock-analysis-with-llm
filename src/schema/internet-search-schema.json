@@ -1,0 +1,58 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Internet Search API",
+    "description": "An API that will take in user input, then will conduct an internet search that matches the inquiry as close as possible",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/search": {
+      "post": {
+        "description": "Internet search endpoint",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "Search query text",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Additional internet serach parameters",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "depth": {
+                    "type": "integer",
+                    "description": "Maximum search depth"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
